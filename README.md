@@ -1,2 +1,2 @@
 # GHToolsTest
-Some feeble attempts to make GitHub Tools work via CDN
+Some feeble attempts to make GitHub Tools work via CDN.
